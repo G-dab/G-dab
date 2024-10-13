@@ -2,6 +2,8 @@
 
 I am currently an undergraduate student at SJTU, current living in Shanghai.
 
+- My personal website: https://g-dab.github.io/
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-dab&show_icons=false&theme=shadow_blue)
 
 ## Languages

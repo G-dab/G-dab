@@ -1,6 +1,6 @@
 # 🤗Hi there! Welcome to G-dab's Github World!
 
-I am currently an undergraduate student at SJTU, current living in Shanghai.
+I am an undergraduate student at SJTU, current living in Shanghai.
 
 - My personal website: https://g-dab.github.io/
 
